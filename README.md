@@ -2,8 +2,8 @@
 
 <!-- OLD VISITOR BADGE ![visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Gchism94.Gchism94&left_text=Visitors) -->
 
-![NestArch](https://github.com/Gchism94/Nest_Arch_ColonyOrganization/blob/main/Figures/NestArchFig.png)
-![Network](https://github.com/Gchism94/Nest_Arch_ColonyOrganization/blob/7814921f7ffe20ef07ec0a5557c57bed1e905fd0/Figures/Network.jpg)
+![NestArch](https://github.com/mrairjordan27/Nest_Arch_ColonyOrganization/blob/main/Figures/NestArchFig.png)
+![Network](https://github.com/mrairjordan27/Nest_Arch_ColonyOrganization/blob/7814921f7ffe20ef07ec0a5557c57bed1e905fd0/Figures/Network.jpg)
 
 ***
 
@@ -13,14 +13,14 @@
 <table>
   <tr>
     <td>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛</td>
-    <td><img src="https://profile-counter.glitch.me/Gchism94/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/mrairjordan27/count.svg" alt="" /></td>
   </tr>
 </table>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Goldman&weight=500&size=22&duration=3000&pause=500&color=1D6685&multiline=true&width=650&height=140&lines=%24+whoami;Gchism94;%5BAKA+Greg+Chism%5D%F0%9F%A4%98;Educator+%7C+Data+Scientist+%7C+Behavioral+Ecologist;Thanks+for+visiting!+%F0%9F%92%9B" alt="Spotify GitHub Profile" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Goldman&weight=500&size=22&duration=3000&pause=500&color=1D6685&multiline=true&width=650&height=140&lines=%24+whoami;mrairjordan27;%5BAKA+Michael+Lord%5D%F0%9F%A4%98;Educator+%7C+Data+Scientist+%7C+Behavioral+Ecologist;Thanks+for+visiting!+%F0%9F%92%9B" alt="Spotify GitHub Profile" />
   </a>
 </div>
   
@@ -77,9 +77,9 @@ say_hi(ds_edu)
 <details align="center">
   <summary><b> 🌎 &nbsp; &nbsp;<h2>𝙵𝚒𝚗𝚍 𝚖𝚎 𝚊𝚛𝚘𝚞𝚗𝚍 𝚝𝚑𝚎 𝚠𝚎𝚋 </h2> &nbsp;&nbsp;&nbsp; </b></summary>
 <p>
-  <a href="mailto:gchism94@gmail.com"><img src="https://img.shields.io/badge/gchism94@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gchism94@gmail.com" alt="gchism94@gmail.com" /></a> 
-  <a href="https://www.linkedin.com/in/greg-chism/"><img src="https://img.shields.io/badge/greg--chism-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/greg-chism/" alt="greg-chism" /></a>
-  <a href="https://github.com/Gchism94"><img src="https://img.shields.io/badge/Gchism94-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Gchism94" alt="Gchism94" /></a>
+  <a href="mailto:white.lord27@yahoo.com"><img src="https://img.shields.io/badge/white.lord27@yahoo.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:white.lord27@yahoo.com" alt="white.lord27@yahoo.com" /></a> 
+  <a href="https://www.linkedin.com/in/michaellord27/"><img src="https://img.shields.io/badge/michael--lord-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/michaellord27/" alt="michael-lord" /></a>
+  <a href="https://github.com/mrairjordan27"><img src="https://img.shields.io/badge/mrairjordan27-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/mrairjordan27" alt="mrairjordan27" /></a>
   
   <br>
   
