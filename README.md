@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Goldman&weight=500&size=22&duration=3000&pause=500&color=1D6685&multiline=true&width=650&height=140&lines=%24+who+am+i;mrairjordan27;%5BAKA+Michael+Lord%5D%F0%9F%A4%98;Educator+%7C+Data+Scientist+%7C+Behavioral+Ecologist;Thanks+for+visiting!+%F0%9F%92%9B" alt="Spotify GitHub Profile" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Goldman&weight=500&size=22&duration=3000&pause=500&color=1D6685&multiline=true&width=650&height=140&lines=%24+who+am+I;mrairjordan27;%5BAKA+Michael+Lord%5D%F0%9F%A4%98;University+Of+Arizona+Alumni+%7C+Gamer+%7C+Sports+Fan;Thanks+for+visiting!+%F0%9F%92%9B" alt="Spotify GitHub Profile" />
   </a>
 </div>
   
@@ -31,8 +31,8 @@
 <div align="left">
   
 ```R
-DataScienceEducator <- setRefClass(
-  "DataScienceEducator",
+InformationScienceTechnologyMajor <- setRefClass(
+  "InformationScienceTechnologyMajor",
   fields = list(
     name = "character",
     role = "character",
@@ -41,7 +41,7 @@ DataScienceEducator <- setRefClass(
   methods = list(
     initialize = function() {
       name <<- "Michael Lord"
-      role <<- "Senior at The University of Arizona"
+      role <<- "University of Arizona Alumni"
       hobby <<- "Gaming"
     }
   )
@@ -51,13 +51,13 @@ say_hi <- function(ds_edu) {
   print(paste0("Passionate ", ds_edu$role, " pursing a degree in Information Science Technology with an emphasis in interactive and immersive tech."))
   print("Adept at manipulating datasets to provide key information.")
   print("Creating graphs to display essential information.")
-  print("Expanding my knowledge in the world of game development, with my game development course I am currently taking.")
-  print("Committed to sharing knowledge and guiding others on their data-driven journeys.")
+  print("Developing 3D & 2D games in Unity using resources such as C#, Blender, Substance Painter, and Quixel Bridge.")
+  print("Committed to sharing knowledge and guiding others on their journeys.")
   print("Driven to provide the best possible output.")
   print("Thanks for reading!")
 }
 
-ds_edu <- DataScienceEducator$new()
+ds_edu <- InformationScienceTechnologyMajor$new()
 say_hi(ds_edu) 
 ```
           
@@ -82,11 +82,9 @@ say_hi(ds_edu)
   <a href="https://github.com/mrairjordan27"><img src="https://img.shields.io/badge/mrairjordan27-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/mrairjordan27" alt="mrairjordan27" /></a>
   
   <br>
-  
-   <a href="https://gregtchism.com/"><img src="https://img.shields.io/badge/Personal%20Website%20%F0%9F%92%BC-38678f?style=for-the-badge&link=https://gregtchism.com/" alt="Personal Website 💼" /></a>
-   <a href="https://scholar.google.com/citations?user=ZVyMRmUAAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/Published%20research%20%F0%9F%93%84-38678f?style=for-the-badge&link=https://scholar.google.com/citations?user=ZVyMRmUAAAAJ&hl=en&oi=ao" alt="Published research 📄" /></a>
-   <a href="https://github.com/Gchism94/Research-compendiums-list/blob/main/README.md"><img src="https://img.shields.io/badge/Research%20Compendiums%20%20%F0%9F%93%9C-38678f?style=for-the-badge&link=https://github.com/Gchism94/Research-compendiums-list/blob/main/README.md" alt="Research Compendiums  📜" /></a>
-   <a href="https://gregtchism.com/articles/"><img src="https://img.shields.io/badge/Teaching%20Materials%20%20%F0%9F%93%9C-38678f?style=for-the-badge&link=https://gregtchism.com/articles/" alt="Teaching Materials  📜" /></a>
+
+   <a href="https://michaellord.itch.io/dash/"><img src="https://img.shields.io/badge/Published%20Games%20%F0%9F%92%BC-38678f?style=for-the-badge&logo=itch.io&labelColor=black&color=white&link=https://michaellord.itch.io/dash//" alt="Published Games" /></a>
+
 </p>
 </details>
 
@@ -95,12 +93,12 @@ say_hi(ds_edu)
   
 ![R](https://img.shields.io/badge/-R-000?&style=for-the-badge&logo=R)
 ![Python](https://img.shields.io/badge/-Python-000?&style=for-the-badge&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&style=for-the-badge&logo=JavaScript)
-![Docker](https://img.shields.io/badge/-Docker-000?&style=for-the-badge&logo=Docker)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-css3-000?&style=for-the-badge&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000?&style=for-the-badge&logo=MySQL)
 ![Git](https://img.shields.io/badge/-git-000?&style=for-the-badge&logo=git)
+![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=c%23)
+
+
+
   
 <h2> 📈 &nbsp;𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙷𝚒𝚜𝚝𝚘𝚛𝚢!</h2>
 <a href="https://github.com/Gchism94">
