@@ -48,7 +48,7 @@ InformationScienceTechnologyMajor <- setRefClass(
 )
 
 say_hi <- function(ds_edu) {
-  print(paste0("Passionate ", ds_edu$role, " pursing a degree in Information Science Technology with an emphasis in interactive and immersive tech."))
+  print(paste0("Passionate ", ds_edu$role, " Graduated with a degree in Information Science Technology with an emphasis in interactive and immersive tech."))
   print("Adept at manipulating datasets to provide key information.")
   print("Creating graphs to display essential information.")
   print("Developing 3D & 2D games in Unity using resources such as C#, Blender, Substance Painter, and Quixel Bridge.")
@@ -101,12 +101,12 @@ say_hi(ds_edu)
 
   
 <h2> 📈 &nbsp;𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙷𝚒𝚜𝚝𝚘𝚛𝚢!</h2>
-<a href="https://github.com/Gchism94">
+<a href="https://github.com/mrairjordan27">
   
-  <img height="180em" src="https://streak-stats.demolab.com?user=Gchism94&theme=noctis-minimus&fire=008AE6&ring=38678F" class="center"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=mrairjordan27&theme=noctis-minimus&fire=008AE6&ring=38678F" class="center"/>
   <br>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gchism94&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gchism94&theme=noctis_minimus&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrairjordan27&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mrairjordan27&theme=noctis_minimus&layout=compact" />
 </a>
 
 ![Snake animation](https://github.com/Gchism94/Gchism94/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
